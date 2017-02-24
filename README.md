@@ -11,9 +11,6 @@ output:
     toc: yes
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ##1. **[课研助手]**简介
 
