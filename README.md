@@ -1,17 +1,3 @@
----
-title: '[课研助手]使用说明'
-author: "课研助手开发团队"
-date: "2016年9月6日"
-output:
-  word_document:
-    toc: yes
-  pdf_document:
-    latex_engine: lualatex
-  html_document:
-    toc: yes
----
-
-
 ##1. **[课研助手]**简介
 
 **[课研助手]**的开发目的是提高高校教师的教学、科研效率，尤其是帮助经济学、管理学和心理学的老师进行课堂教学、实地调研和实验研究工作。对于高校教师而言， **[课研助手]**主要有以下优势：
